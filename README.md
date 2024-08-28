@@ -3,7 +3,7 @@
 <a align="center" href="https://www.linkedin.com/in/adrian-oliveira-74801b2b2/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 <br>
-<p>Ola tudo bem? Este e meu primeiro projeto onde eu utilizo as duas principais tecnologias do Front End, alem disso este site e responsivo, não so compativel com computadores mas tambem com smartphones.</p>
+<p>Olá tudo bem? Este é meu primeiro projeto onde eu utilizo as duas principais tecnologias do Front End, alem disso este site é responsivo, não so compativel com computadores mas tambem com smartphones.</p>
 
 <h1>Tecnologias:</h1>
 
