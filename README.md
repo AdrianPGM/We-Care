@@ -12,4 +12,4 @@
  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  
 
- <img src="https://github.com/AdrianPGM/FrontEnd-ProjetoResponsivo/blob/master/we-care/assets/Layout.png?raw=true" width="750px"/>
+ <img src="./assets/layout (1).png" width="750px"/>
